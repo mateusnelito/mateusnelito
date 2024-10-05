@@ -12,12 +12,12 @@ Backend Developer focused on Fastify, Prisma, and TypeScript.
 
 ## Featured Projects
 
-- [SGE: School Management System](https://github.com/mateusvalecelestino/egleston-api) - A system for managing classes, students, and teachers.
-- [Payment-System API](https://github.com/mateusvalecelestino/payment-system-backend) - A backend service for handling payments and transactions.
+- [SGE: School Management System](https://github.com/mateusnelito/egleston-api) - A system for managing classes, students, and teachers.
+- [Payment-System API](https://github.com/mateusnelito/payment-system-backend) - A backend service for handling payments and transactions.
 
 ## Contact
 
-[Email](mailto:mateuscelestinofreacker@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mateus-celestino-05b88b209) | [GitHub](https://github.com/mateusvalecelestino)
+[Email](mailto:mateuscelestinofreacker@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mateus-celestino-05b88b209) | [GitHub](https://github.com/mateusnelito)
 
 ---
 

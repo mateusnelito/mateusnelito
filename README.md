@@ -1,16 +1,24 @@
-## Hi there 👋
+## Mateus Vale ✨
 
-<!--
-**mateusvalecelestino/mateusvalecelestino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Fastify, Prisma, and TypeScript.
 
-Here are some ideas to get you started:
+- Currently improving backend skills and learning DBA.
+- Exploring mobile iOS development in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **Languages:** TypeScript, JavaScript, PHP
+- **Frameworks & Tools:** Fastify, Prisma, Zod, Docker, SQL
+
+## Featured Projects
+
+- [SGE: School Management System](https://github.com/mateusvalecelestino/egleston-api) - A system for managing classes, students, and teachers.
+- [Payment-System API](https://github.com/mateusvalecelestino/payment-system-backend) - A backend service for handling payments and transactions.
+
+## Contact
+
+[Email](mailto:mateuscelestinofreacker@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mateus-celestino-05b88b209) | [GitHub](https://github.com/mateusvalecelestino)
+
+---
+
+"Solving problems through code, one step at a time."

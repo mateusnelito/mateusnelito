@@ -17,7 +17,7 @@ Backend Developer focused on Fastify, Prisma, and TypeScript.
 
 ## Contact
 
-[Email](mailto:mateuscelestinofreacker@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mateus-celestino-05b88b209) | [GitHub](https://github.com/mateusnelito)
+[Email](mailto:mateuscelestinofreacker@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mateus-nelito) | [GitHub](https://github.com/mateusnelito)
 
 ---
 
